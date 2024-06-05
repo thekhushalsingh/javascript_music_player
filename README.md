@@ -1,1 +1,2 @@
 # javascript_music_player
+Liven up your web presence with an interactive music player! Using JavaScript, HTML, and CSS, craft a sleek interface to control your favorite tunes. Play, pause, and adjust volume with ease. Browse through a playlist or shuffle tracks for a surprise.  A progress bar keeps you informed, and you can even display song information.  This lightweight music player enhances your website's engagement, making it a fun destination to visit.
